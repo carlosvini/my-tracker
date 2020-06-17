@@ -1,4 +1,4 @@
 # my-tracker
 
 
-Just an exercise on TypeScript
+Just an exercise on TypeScript!
